@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+  <title>Our Menu</title>
+<style>
+* { box-sizing: border-box;
+}
+
+h1 {background-color: blue;
+}
+
+p1 {background-color: red;
+}
+
+p2 {background-color: green;
+}
+
+</style>
+
+
+
+<body>
+  <h1>Our Menu<h1>
+<p1>lorem ipsum
